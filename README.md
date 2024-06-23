@@ -1,4 +1,4 @@
-![zzllrr Mather Logo](https://github.com/zzllrr/mather/raw/master/img/logo.jpg)
+![Mather nth Logo](https:/github,com/mather-nth/raw/master/img/newIcon.png)
 
 # zzllrr Mather - An open-sourced Web APP for Mathematics
 
