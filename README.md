@@ -1,60 +1,45 @@
 ![Mather nth Logo](https://www.github.com/bruhgsyuat/mather-nth/raw/master/img/newIcon.png)
 
-# zzllrr Mather - An open-sourced Web APP for Mathematics
+# Mather *n*th - An open-sourced Web app for Mathematics
 
 ![zzllrr Mather Demo Version Screenshot](https://github.com/zzllrr/mather/raw/master/img/zzllrr-mather-demo.jpg)
-
-小乐数学，一款基于web网页的覆盖数学全部学科的数学开源软件。
  
-For global users国际用户请访问 <https://zzllrr.github.io/mather/>
-
-For Chinese users国内用户请访问 <http://zzllrr.gitee.io/mather/>
+For global users <https://bruhgsyuat.github.io/mather-Nth/>
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://mit-license.org/) [![Donate](https://img.shields.io/badge/donate-Paypal-green)](https://www.paypal.me/zzllrr/8)
 
-| [About 关于](https://zzllrr.github.io/mather/about.html "简介") | [API](https://zzllrr.github.io/mather/api.html) | [Background 背景](https://github.com/zzllrr/mather/raw/master/RESEARCH.md) | [MIT License 许可证](https://github.com/zzllrr/mather/raw/master/LICENSE) | [Credits 鸣谢](https://zzllrr.github.io/mather/api.html?sub=3rd-party) |
+| [About](https://bruhgsyuat.github.io/mather/about.html "Introduction") | [API](https://zzllrr.github.io/mather/api.html) | [Background](https://github.com/zzllrr/mather/raw/master/RESEARCH.md) | [MIT License](https://github.com/zzllrr/mather/raw/master/LICENSE) | [Credits](https://zzllrr.github.io/mather/api.html?sub=3rd-party) |
 
-## Aims 宗旨
+## Aims
 Make mathematics easier to learn, practice, teach, study, appreciate, play, show, spread and reach.
 
-让数学更易学易练，易教易研，易赏易玩，易见易得，易传易及。
-
-## Summary 摘要
-
-Out of the box 开箱即用（兼容电脑和触屏移动设备）,
-
-Serverless, Offline & Step-by-step 支持离线解题（步骤）、数学运算、公式编辑、几何绘图、
-
-Richmedia Showcase 富媒体演示（文档、PPT、AR、VR、语音、2D及3D动画等富媒体）、
-
-Knowledge Base 知识库（数学概念实体库、公式库、定理库、题库、文献资源索引库）。
-
-Wide range of users 软件适合广大的数学师生、爱好者、研究者、开发者、科普工作者使用。
-
-Comprehensive content on Mathematics 在内容上，覆盖全数学学科的知识概念和思想方法图谱、典型题库和解法、未解难题及开放课题；
-
-Multi-functionality 在功能上，集公式编辑、几何绘图、演示交互、解题、知识穿透联想、数学百科启发探索于一身；
-
-Compact, portable, powerful, customizable 软件体积小巧便携，但功能强大，高度结构化和系统化，并可离线使用和自由扩展定制。
+## Summary
+- Out of the box 
+- Serverless, Offline & Step-by-step
+- Richmedia Showcase
+- Knowledge Base
+- Wide range of users
+- Comprehensive content on Mathematics
+- Multi-functionality
+- Compact, portable, powerful, customizable
 
 
 
-## How to Use 使用方法
-### 1. Online 直接在线使用
-访问网址 <https://zzllrr.github.io/mather/>
-或 <http://zzllrr.gitee.io/mather/>
+## How to Use
+### 1. Online
+Click on this URL <https://zzllrr.github.io/mather/>
 
-### 2. Offline 离线使用
-1. 下载安装包源文件
-2. 打开其中的网页index.html即可
-3. 可以独立使用的工具（单独打开html运行）
+### 2. Offline
+1. Download the installation package source file
+2. Open `index.html`
 
-|Filename文件名|Application用途|Entrance入口|
+|Filename|Application|Entrance|
 |:--:|:--:|:--:|
-|index.html|Homepage首页|[For Chinese Users国内用户](https://zzllrr.gitee.io/mather/index.html) [Local本地](/index.html) [Online在线](https://zzllrr.github.io/mather/index.html)|
-|editor.html|Editor编辑器|[For Chinese Users国内用户](https://zzllrr.gitee.io/mather/editor.html) [Local本地](/editor.html) [Online在线](https://zzllrr.github.io/mather/editor.html)|
-|doodle.html|Doodle涂鸦|[For Chinese Users国内用户](https://zzllrr.gitee.io/mather/doodle.html) [Local本地](/doodle.html) [Online在线](https://zzllrr.github.io/mather/doodle.html)|
-|document.html|Document文档|[For Chinese Users国内用户](https://zzllrr.gitee.io/mather/document.html) [Local本地](/document.html) [Online在线](https://zzllrr.github.io/mather/document.html)|
+|index.html|Homepage|[Local](/index.html) [Online](https://bruhgsyuat.github.io/mather-Nth/index.html)|
+|editor.html|Editor|[Local](/editor.html) [Online](https://bruhgsyuat.github.io/mather-Nth/editor.html)|
+|doodle.html|Doodle|[Local](/doodle.html) [Online](https://bruhgsyuat.github.io/mather-Nth/doodle.html)|
+<!--
+|document.html|Document|[Local本地](/document.html) [Online在线](https://bruhgsyuat.github.io/mather-Nth/document.html)|
 |slide.html|Slide幻灯片|[For Chinese Users国内用户](https://zzllrr.gitee.io/mather/slide.html) [Local本地](/slide.html) [Online在线](https://zzllrr.github.io/mather/slide.html)|
 |speech.html|Speech语音|[For Chinese Users国内用户](https://zzllrr.gitee.io/mather/speech.html) [Local本地](/speech.html) [Online在线](https://zzllrr.github.io/mather/speech.html)|
 |3d.html|3D三维立体|[For Chinese Users国内用户](https://zzllrr.gitee.io/mather/3d.html) [Local本地](/3d.html) [Online在线](https://zzllrr.github.io/mather/3d.html)|
@@ -68,40 +53,30 @@ Compact, portable, powerful, customizable 软件体积小巧便携，但功能�
 |culture.html|Culture文化|[For Chinese Users国内用户](https://zzllrr.gitee.io/mather/culture.html) [Local本地](/culture.html) [Online在线](https://zzllrr.github.io/mather/culture.html)|
 |about.html|About关于|[For Chinese Users国内用户](https://zzllrr.gitee.io/mather/about.html) [Local本地](/about.html) [Online在线](https://zzllrr.github.io/mather/about.html)|
 |api.html|API接口|[For Chinese Users国内用户](https://zzllrr.gitee.io/mather/api.html) [Local本地](/api.html) [Online在线](https://zzllrr.github.io/mather/api.html)|
+-->
 
 
-## Function 功能模块
-### 0. Editor 编辑器功能
-在输入框右侧，选择一种输入格式，可以编辑相应格式的内容。
+## Function
+### 0. Editor
+On the right side of the input box, select an input format to edit the content of the corresponding format.
 
-- 1. Math Formula Editor 数学公式编辑
-在输入框中，输入LaTeX语法命令（支持Unicode字符），或者点击相应公式按钮，得到模板，再进行编辑。
-点击右侧的预览按钮(左箭头)，可以开启或关闭实时LaTeX数学公式预览功能。
+- 1. Math Formula Editor
+In the input box, enter LaTeX code (Unicode characters are supported), or click the corresponding formula button to get the template, and then edit it. Click the preview button (left arrow) on the right to turn on or off the real-time LaTeX mathematical formula preview function.
 
-- 2. Document Editor 文档编辑
-点击演示（Show）菜单，文档（Document）子菜单，
-在输入框中，输入文本内容（以及图形或动画命令），然后点击左侧下方的运行 (Ctrl + Enter)按钮，可以进入文档浏览模式。
-支持LaTeX、Markdown、HTML、SVG、Canvas、JavaScript、Echarts、Zdog、VR、AR等格式混合内容排版，
-不同格式内容需使用相应闭合标签括起来。
-例如（更多示例，参见软件内的输入框右侧提示）：
-- Inline formula 行内数学公式：使用IL标签包裹LaTeX内容（参见KaTeX所支持的语法）
+- 2. Document Editor
+Click the Show menu, Document submenu, In the input box, enter text content (and graphics or animation commands), and then click the Run (Ctrl + Enter) button at the bottom left to enter document browsing mode. Supports mixed content typesetting in LaTeX, Markdown, HTML, SVG, Canvas, JavaScript, Echarts, Zdog, VR, AR and other formats, Content in different formats needs to be enclosed by corresponding closing tags. For example:
 
 ```html
 <IL>x^2+y^2=z^2</IL>
  ```
 
-- Display formula 行间数学公式：使用LA标签包裹LaTeX内容（参见KaTeX所支持的语法）
-
 ```html
 <LA>x^2+y^2=z^2</LA>
 ```
 
-- Markdown：使用MD标签包裹Markdown内容
-与常见Markdown软件支持的格式类似。数学公式用美元符号$括起来。
-
-- HTML：直接输入，无需额外的闭合标签包裹
-
-- SVG 矢量图：直接输入完整的SVG源代码，或者使用SV标签包裹内容
+- Markdown: Use MD tags to wrap around Markdown text. to enter math in markdown, you have to wrap it in `$`, and the enter with LaTeX syntax.
+- HTML: Direct input.
+- Svg Vector: Enter SVG code directly, or use SV tags.
 
 ```html
 <SV><rect x=10 y=10 width=100 height=30 stroke=green fill=none /></SV>
